@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "voron",
+      "type": "com.ironbank.RavenProperties",
+      "sourceType": "com.ironbank.RavenProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "voron.destination",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.ironbank.RavenProperties"
+    },
+    {
+      "name": "voron.enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.ironbank.RavenProperties"
+    }
+  ],
+  "hints": []
+}

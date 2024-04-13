@@ -10,7 +10,9 @@ import java.util.List;
 
 @ConfigurationProperties("voron")
 public class RavenProperties{
-    @Setter
-    @Getter
+    @Setter @Getter
     List<String> destination;
+
+    @Getter @Setter
+    boolean enabled;
 }
