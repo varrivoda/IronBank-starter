@@ -1,4 +1,4 @@
-package com.ironbank;
+package com.ironbank.starter;
 
 import jdk.jfr.DataAmount;
 import lombok.Getter;

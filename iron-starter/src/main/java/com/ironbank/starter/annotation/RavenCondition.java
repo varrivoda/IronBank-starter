@@ -1,8 +1,7 @@
-package com.ironbank.annotation;
+package com.ironbank.starter.annotation;
 
 import org.springframework.boot.autoconfigure.condition.AllNestedConditions;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
-import org.springframework.context.annotation.Condition;
 
 public class RavenCondition extends AllNestedConditions {
     public RavenCondition(){//ConfigurationPhase configurationPhase) {

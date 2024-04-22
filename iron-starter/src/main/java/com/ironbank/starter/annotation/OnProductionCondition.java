@@ -1,4 +1,4 @@
-package com.ironbank.annotation;
+package com.ironbank.starter.annotation;
 
 import org.springframework.context.annotation.Condition;
 import org.springframework.context.annotation.ConditionContext;
